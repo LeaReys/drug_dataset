@@ -1,5 +1,4 @@
 ## Drug Classification
-Выявление наличия диабета у пациентов.
 
 **DATA:** [Kaggle](https://www.kaggle.com/datasets/prathamtripathi/drug-classification)
 
